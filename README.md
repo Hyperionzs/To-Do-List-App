@@ -39,7 +39,7 @@ A modern, responsive, and feature-rich To-Do List web application built with PHP
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/to-do-list-app.git
-   cd todo-list-app
+   cd to-do-list-app
    ```
 
 2. **Setup Database**
