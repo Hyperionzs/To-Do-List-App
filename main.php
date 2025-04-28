@@ -289,7 +289,7 @@ $completedCount = getStatusCount($conn, 'completed');
         <footer class="main-footer">
             <div class="footer-content">
                 <div class="footer-copyright">
-                    <p>&copy; 2025 Task Manager | Made by <a href="https://github.com/anggra-dev">Anggra.Dev</a></p>
+                    <p>&copy; 2025 Task Manager | Made by <a href="https://github.com/hyperionzs">Anggra.Dev</a></p>
                 </div>
                 <div class="footer-social">
                     <a href="https://github.com/hyperionzs" target="_blank"><i class="fab fa-github"></i></a>
