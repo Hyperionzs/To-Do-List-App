@@ -77,8 +77,4 @@ A modern, responsive, and feature-rich To-Do List web application built with PHP
 - [Google Fonts - Inter](https://fonts.google.com/specimen/Inter)
 - Inspired by modern productivity apps
 
-## License
-
-MIT License
-
 ---
